@@ -1,0 +1,8 @@
+name: AethicPrisons
+main: core\Nexus
+load: POSTWORLD
+version: "1.0"
+api: 4.0.0
+authors:
+  - David
+description: A Cosmic Prison style prison core for Aethic
